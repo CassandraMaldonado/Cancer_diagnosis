@@ -11,7 +11,7 @@ This project analyzes a dataset of cancer patient records to explore which featu
 
 *2. Dimensionality Reduction with PCA.*
 
-- Apply PCA to the high-dimensional data into 2D.
+- Apply PCA to the high-dimensional data to turn it into 2D.
 
-Visualize clusters and interpret patterns between cancer types in reduced dimensions.
+- Visualize clusters and interpret patterns between cancer types in reduced dimensions.
 
