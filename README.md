@@ -7,11 +7,11 @@ This project analyzes a dataset of cancer patient records to explore which featu
 
 - Visualize and compare distributions of diagnostic features across malignant and benign tumors using histograms and boxplots.
 
-Use statistical measures to identify the top 3 features with the strongest class separation.
+- Use statistical measures to identify the top 3 features with the strongest class separation.
 
 *2. Dimensionality Reduction with PCA.*
 
-Apply Principal Component Analysis (PCA) to project high-dimensional data into 2D.
+- Apply PCA to the high-dimensional data into 2D.
 
 Visualize clusters and interpret patterns between cancer types in reduced dimensions.
 
