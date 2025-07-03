@@ -29,8 +29,8 @@ The dataset is sourced from UCI’s Breast Cancer Wisconsin dataset. It includes
 
 - NumPy
 
-Matplotlib / Seaborn
+- Matplotlib / Seaborn
 
-Scikit-learn (for PCA and preprocessing)
+- Scikit-learn
 
 
