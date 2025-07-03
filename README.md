@@ -38,14 +38,4 @@ The dataset is sourced from UCI’s Breast Cancer Wisconsin dataset. It includes
 
 - PCA revealed that malignant and benign tumors form largely distinct clusters in 2D space, suggesting effective separation with fewer dimensions.
 
-📌 Conclusion
-This notebook provides a clear pipeline for:
-
-Understanding which features are most diagnostic
-
-Reducing feature space without losing critical separation
-
-Visualizing insights that can inform further modeling or clinical decision support
-
-
 
