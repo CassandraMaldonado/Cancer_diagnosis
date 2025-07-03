@@ -15,3 +15,22 @@ This project analyzes a dataset of cancer patient records to explore which featu
 
 - Visualize clusters and interpret patterns between cancer types in reduced dimensions.
 
+## Dataset
+The dataset is sourced from UCI’s Breast Cancer Wisconsin dataset. It includes:
+
+- 30 real-valued features per patient (radius, texture, area, smoothness).
+
+- Diagnosis label: M = malignant, B = benign.
+
+## Technologies Used
+- Python
+
+- Pandas
+
+- NumPy
+
+Matplotlib / Seaborn
+
+Scikit-learn (for PCA and preprocessing)
+
+
